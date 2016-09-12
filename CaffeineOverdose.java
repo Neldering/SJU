@@ -4,7 +4,7 @@
    9/9/2016
    Problem 10 Homework assignment 1
    This program calculates how many Coffee or Colas required to Overdose
-   The main method calculates 
+   The main method calculates how many Coffee or Colas required to Overdose
 */
 
 public class CaffeineOverdose 
