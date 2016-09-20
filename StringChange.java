@@ -1,5 +1,6 @@
-public class StringChange {
 import java.util.Scanner;
+
+public class StringChange {
 
   public static void main(String[] args) {
         
