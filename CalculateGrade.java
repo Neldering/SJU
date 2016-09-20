@@ -30,7 +30,7 @@ public class CalculateGrade
 		
 	
 		
-	  System.out.println("Enter the name of the first assignment:");
+	  	System.out.println("Enter the name of the first assignment:");
 		nameOfAssignment1 = kb.nextLine();
 		
 			
